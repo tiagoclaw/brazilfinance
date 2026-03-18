@@ -97,12 +97,17 @@ python demo-server.py
 
 ---
 
-## 🔗 Deploy Rápido (2 Cliques)
+## 🚀 Deploy Rápido (1 Clique)
 
-### Backend API
-[![Deploy with Railway](https://railway.app/button.svg)](https://railway.app/new/template/code-repo?template=https://github.com/tiagoclaw/brazilfinance&envs=PORT&PORTDefault=8000)
+### Backend API (Railway)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/code-repo?repository=tiagoclaw/brazilfinance)
 
-### Landing Page  
+*Deploy automático: Dockerfile + nixpacks + auto-scaling*
+
+### Landing Page (GitHub Pages)  
+✅ **Já Online:** https://tiagoclaw.github.io/brazilfinance/
+
+*Alternativa Vercel:*
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/tiagoclaw/brazilfinance&project-name=brazilfinance&root-directory=landing-page)
 
 ---
